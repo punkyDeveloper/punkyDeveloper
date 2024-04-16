@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap.jquery.mongodb.postman.react.tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,jquery,mongodb,postman,react,tailwind)](https://skillicons.dev)
 <!--
 **punkyDeveloper/punkyDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
